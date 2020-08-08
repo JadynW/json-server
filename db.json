@@ -1,0 +1,64 @@
+{
+  "beans": [
+    {
+      "id": "0",
+      "name": "Ethiopia",
+      "image": "images/package.jpg",
+      "category": "AAA",
+      "region": "Uraga, Guji",
+      "varietal": "Heirloom Ethiopian",
+      "altitude": "2250 - 2300 masl",
+      "note": "Delicate floral, stewed fruits, cranberries, lime & caramel",
+      "featured": false,
+      "process": "Natural",
+      "size": "200",
+      "price": "19",
+      "description": "Among coffee-producing countries, Ethiopia holds near-legendary status not only because it’s regarded as the \"birthplace\" of Arabica coffee, but also because it is simply unlike every other place in the coffee world. Unlike the vast majority of coffee-growing countries, the plant was not introduced as a cash crop through colonization. Instead, growing, processing, and drinking coffee is part of the everyday way of life, and has been for centuries, since the trees were discovered growing wild in forests and eventually cultivated for household use and commercial sale."
+    },
+    {
+      "id": "1",
+      "name": "Ethiopia",
+      "image": "images/package.jpg",
+      "category": "AAA",
+      "region": "Sidamo, Ethiopia",
+      "varietal": "74110, 74112",
+      "altitude": "",
+      "note": "Dark chocolate with blueberry and caramel. ",
+      "featured": false,
+      "process": "Washed",
+      "size": "200",
+      "price": "19",
+      "description": "Ethiopia’s Sidamo Zone is a famous coffee-producing area. Sidamo’s high elevation and cool climate create ideal growing conditions, and the area’s coffee is sought after for its intensely fruit-forward and floral qualities. Coffee has been growing here for centuries, and it’s an important source of income for rural households. Most producers in Sidamo farm organically on small plots of land, averaging 2-5 hectares in size. This coffee comes from the Aroresa washing station, to which around 700 producers deliver their ripe cherries. The station’s employees process coffees using both the natural and washed methods. This lot was meticulously wash-processed, which means the fruit and skin were removed from the beans before they were graded and soaked in clean water. After that, the coffee was re-washed, re-graded and soaked again, before being laid out to dry on raised beds."
+    },
+    {
+      "id": "2",
+      "name": "Colombia",
+      "image": "images/package.jpg",
+      "category": "AAA",
+      "region": "Ubaque, Colombia",
+      "varietal": "94% Castillo and 6% Typica",
+      "altitude": "1800 - 2000 masl",
+      "note": "Toffee, Milk Chocolate & Coffee Blossom",
+      "featured": false,
+      "process": "Washed",
+      "size": "200",
+      "price": "19",
+      "description": "Ubaque is 50 km east of Bogotá and home of the indigenous Muisca people. This is Rumble's 4th year buying from this group of farmers. In Colombia, there is a daily price that sets against the market price. Most smallholders take their coffee to a collection station to sell their coffee at this rate. The daily rate at the time of purchase was 950,000 pesos per cargo (125kg of parchment coffee) for this lot UBACAFE was paid 1,200,000 pesos per carga."
+    },
+    {
+      "id": "3",
+      "name": "Guatemala",
+      "image": "images/package.jpg",
+      "category": "AAA",
+      "region": "Antigua, Guatemala",
+      "varietal": "Bourbon, Caturra",
+      "altitude": "1400 - 1700 masl",
+      "note": "Mandarin, Chocolate, Citrus Acidity",
+      "featured": true,
+      "process": "Washed",
+      "size": "200",
+      "price": "19",
+      "description": "Octavio ‘Otto’ Rafael Herrera Ordoñez has worked in coffee for more than 25 years. His farms, including ‘Las Plantas’ are currently under the administration and operation of the second and third generation of the Herrera family, with collectively has over 50 years of experience in growing coffee. The family has been pushing the quality of the coffee processing allowing their plants to bring forth their best qualities. Through our green bean partner Project Origin, we work closely with Otto, the Herrera family through our local partners in Guatemala, who focus on growing and exporting different lots and varietal separations that are always juicy, complex, and downright delicious. This washed bourbon/caturra lot has a distinct chocolate sweetness, accompanied by a mandarin note and lingering citrus acidity."
+    }
+  ]
+}
