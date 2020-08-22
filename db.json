@@ -97,18 +97,6 @@
       "link": "https://www.fivesenses.com.au/blog/coffee-selection-guide/"
     },
     {
-      "id": "cupping-guide",
-      "title": "A Beginner’s Guide to Cupping Coffee & Improving Your Palate",
-      "author": "Perfect Daily Grind",
-      "p1": "Cupping is the industry standard for coffee quality evaluations, and a great way to learn more about coffee whether you’re a consumer, roaster, trader, or even a coffee farmer. Yet attending a cupping session can be intimidating, especially if you’re new to it.",
-      "h1": "HOW TO CUP COFFEE",
-      "p2": "The cupping process is relatively simple, but it’s important to be prepared and control all variables. You want your notes to reflect the differences in the coffees, not the differences in how you’ve prepared the samples. “You’ll need a scale, a grinder, water, kettles, cups or bowls, spoons, a timer or two, towels, pens/pencils and… cupping forms, spittoons, and plenty of surface area,” Chris lists. The SCA recommends using a well-lit and spacious room that’s quiet and free from any aromas. During the cupping, the room should be calm and devoid of distractions so that participants can give the samples their full attention. onsistency in equipment is paramount to ensuring consistency in cupping. The SCA recommends that all cups are of the same dimensions and volume, as well as being made of the same material (glass or ceramic). This ensures correct and consistent ratios of water to ground coffee, as well as the same amount of heat retention in each cup during extraction.",
-      "h2": "Understand Your Evaluation Form",
-      "p3": "While the SCA cupping form is widely used, you may find yourself facing a different evaluation system, depending on the purpose of the cupping. At The Crown: Royal Coffee Lab & Tasting Room, for example, SCA formats are used for various cupping formats. However, Chris tells me that other cupping sessions might use a slightly modified protocol “to suit our purposes”. Chris says, “At Royal’s Emeryville office, traders cup using a simplified form and coffee is dosed by volume (rather than weight)… Traders often will issue ‘approve’ or ‘decline’ for samples in addition to a modified cup score. These cuppings are rarely blind.",
-      "p4": "Understand yourself, too. “The practice is equal parts mental and physical, so being prepared and calm and open-minded is just as important as knowing how to use the cupping form,” he stresses. “Are you especially tired? Did you burn your tongue yesterday? Do you have a naturally over- or under-sensitive palate to sweetness or acidity, for example? All of these will affect your ability to be as objective as possible.”",
-      "link": "https://perfectdailygrind.com/2020/03/a-beginners-guide-to-cupping-coffee-improving-your-palate/",
-    },
-    {
       "id": "women-coffee",
       "title": "Women in Coffee: We See You",
       "author": "Blue Bottle Coffee",
@@ -119,18 +107,6 @@
       "p3": "Though Letis Reyes is still a relatively new producer in Honduras’ Santa Bárbara Department, Blue Bottle has been purchasing her remarkable coffees since her first harvest in 2015.   Through her dedication to quality, Letis Reyes is putting her remote town of San Jose Los Andes on the map. But she’s also giving back to her own community: On her little corner of Santa Bárbara Mountain, there is little income to be made outside of coffee, which means that long-distance transit is a fact of life for many local workers. A mother herself, Letis Reyes also cares for a group of children whose parents must travel in order to support their families.   As our green coffee buyer, Charlie Habegger, says, she’s “many times a mother.” ",
       "p4": "When our guests buy our coffees, they’re supporting these incredible women as well as Blue Bottle, and we couldn’t be more grateful.",
       "link": "https://blog.bluebottlecoffee.com/posts/mothers-day-2017",
-    },
-    {
-      "id": "",
-      "title": "",
-      "author": "",
-      "p1": "",
-      "h1": "",
-      "p2": "",
-      "h2": "",
-      "p3": "",
-      "p4": "",
-      "link": "",
-    },
+    }
    ]
 }
