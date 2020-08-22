@@ -82,5 +82,55 @@
       "name": "product 3",
       "image": "images/prod-3.jpg"
     }
+   ],
+  "blogs": [
+    {
+      "id": "Bean-Source",
+      "title": "Coffee selection guide: How to choose the beans that are right for me?",
+      "author": "Adrian Dart",
+      "p1": "A world of information to sort through, choices galore, and not everyone is able to guide you through choosing the right coffee you are looking for. Today we will walk you through some key factors to take into consideration when you are next making that important choice for yourself or a loved one. Whether that’s purchasing some delicious beans or staring at a coffee menu, get ready to make the most important decision of the day.",
+      "h1": "Roast Freshness",
+      "p2": "Fresh is best. I only drink the best. One of the great all time myths about coffee is that it keeps forever. The opposing myth that coffee goes ‘bad’ and can’t be used after 2 weeks is also somewhat misleading.  So what is the deal? There really is only one choice here. Coffee is a fruit, a cherry in fact, and it’s a carefully grown processed agricultural product. So fresh is always best.  So how are we going to know what fresh looks like? Look for beans that have a clear printed roast date on them. Any coffee that can’t tell you this information, probably doesn’t want to. So be very wary of any packaging that uses a ‘best before’ or has a ‘2014’ printed on it.  So when should I look to buy and finish my coffee by? Buy it as freshly roasted as possible and look to use it all up no later than three weeks after the printed roast date for maximum enjoyment. The ideal ‘peak’ flavour times are usually found between day 7 and 14, which will be the norm for most of the great cafes you visit. You can still potentially look to use beans for up to 4 weeks, but most of the time, after day 14 the quality and flavour intensity will start to fade and leave you with some very flat cups and sad faces.",
+      "h2": "Origin Selection",
+      "p3": "Growing conditions and economic factors vary greatly across the planet and so it’s no surprise that coffee grown in one country will be different from the next. Wine drinkers have a long-held appreciation for this phenomena, having come to expect to see specific flavour and aroma characteristics from a French wine that may be clearly distinctive from an Italian or something grown in Australia. Coffee prefers to grow in the warmer latitudes between the Tropic of Cancer and Tropic of Capricorn. This band of latitudes is often referred to as the ‘coffee belt’. Within this band a vast array of variables exist including altitude, rainfall, soil conditions and sunlight, all of which will alter the outcome of how your coffee will taste.  So how do I narrow this huge offering down to what I might like best? If you are seeking fruit driven flavours and floral aromas, starting with blends that contain African coffees is a great choice (think Hi Fidelity blend). Many coffee drinkers swoon at the thought of excitedly opening up a bag of Ethiopian beans to deeply inhale the complex berry and wine like aromas. Or salivate at the thought of slurping on a juicy stone fruit influenced coffee from Kenya.  South and Central American coffee might be your thing if you are looking for clean coffees exhibiting delicate sugar browning sweetness, like chocolate or buttery pastry, accompanied with a softer fruit character. As most of the world’s coffee production hails from this area, it’s highly likely that you will find a winner here. Brazil is well known for producing coffees with a heavier body and peanut character (think Crompton Rd blend). While further north in Colombia these flavours a mellowed and typically present more so as chocolates, caramels and toffees (think Dark Horse blend). Sounds delicious! Do I even need to look elsewhere?  Perhaps if you prefer a coffee to be heavier bodied and earth in character, selecting from the India and Indonesian region is for you. Often exhibiting a luscious syrupy body combined with herbal and savoury flavours, these tend to be the most dividing in personal preference and definitely sit in the ‘Love or Hate’ bracket.",
+      "p4": "Also, altitude, processing and varietals are vital factors to define coffee beans. We display detailed information on each of our beans so you know what you are buying. Happy drinking (coffee)!",
+      "link": "https://www.fivesenses.com.au/blog/coffee-selection-guide/"
+    },
+    {
+      "id": "cupping-guide",
+      "title": "A Beginner’s Guide to Cupping Coffee & Improving Your Palate",
+      "author": "Perfect Daily Grind",
+      "p1": "Cupping is the industry standard for coffee quality evaluations, and a great way to learn more about coffee whether you’re a consumer, roaster, trader, or even a coffee farmer. Yet attending a cupping session can be intimidating, especially if you’re new to it.",
+      "h1": "HOW TO CUP COFFEE",
+      "p2": "The cupping process is relatively simple, but it’s important to be prepared and control all variables. You want your notes to reflect the differences in the coffees, not the differences in how you’ve prepared the samples. “You’ll need a scale, a grinder, water, kettles, cups or bowls, spoons, a timer or two, towels, pens/pencils and… cupping forms, spittoons, and plenty of surface area,” Chris lists. The SCA recommends using a well-lit and spacious room that’s quiet and free from any aromas. During the cupping, the room should be calm and devoid of distractions so that participants can give the samples their full attention. onsistency in equipment is paramount to ensuring consistency in cupping. The SCA recommends that all cups are of the same dimensions and volume, as well as being made of the same material (glass or ceramic). This ensures correct and consistent ratios of water to ground coffee, as well as the same amount of heat retention in each cup during extraction.",
+      "h2": "Understand Your Evaluation Form",
+      "p3": "While the SCA cupping form is widely used, you may find yourself facing a different evaluation system, depending on the purpose of the cupping. At The Crown: Royal Coffee Lab & Tasting Room, for example, SCA formats are used for various cupping formats. However, Chris tells me that other cupping sessions might use a slightly modified protocol “to suit our purposes”. Chris says, “At Royal’s Emeryville office, traders cup using a simplified form and coffee is dosed by volume (rather than weight)… Traders often will issue ‘approve’ or ‘decline’ for samples in addition to a modified cup score. These cuppings are rarely blind.",
+      "p4": "Understand yourself, too. “The practice is equal parts mental and physical, so being prepared and calm and open-minded is just as important as knowing how to use the cupping form,” he stresses. “Are you especially tired? Did you burn your tongue yesterday? Do you have a naturally over- or under-sensitive palate to sweetness or acidity, for example? All of these will affect your ability to be as objective as possible.”",
+      "link": "https://perfectdailygrind.com/2020/03/a-beginners-guide-to-cupping-coffee-improving-your-palate/",
+    },
+    {
+      "id": "women-coffee",
+      "title": "Women in Coffee: We See You",
+      "author": "Blue Bottle Coffee",
+      "p1": "From handmade cards to a year’s worth of coffee, gifts are small yet tangible ways to express recognition. At its best, gift-giving says, I see you—for the work you do, the sacrifices you make, and the generosity you practice.  Recognition is especially valuable when it goes to people who don’t receive the acknowledgment they deserve. If we had it our way, we would honor the women who drive the coffee industry (many of whom are mothers) every day of the year.",
+      "h1": "SILVIA BARRETTO, BRAZIL",
+      "p2": "Since inheriting the Fazenda Ambiental Fortaleza family estate in 2001, Barretto has overseen a 75% reduction in mass farming, facilitating a complete soil transformation. An outlier in Brazil, where factory farming continues to be the norm, FAF now produces truly exceptional organic coffees, and Barretto wants to turn this practice into a family tradition by someday passing the torch to her son, Felipe.",
+      "h2": "ANA LETIS REYES, HONDURAS",
+      "p3": "Though Letis Reyes is still a relatively new producer in Honduras’ Santa Bárbara Department, Blue Bottle has been purchasing her remarkable coffees since her first harvest in 2015.   Through her dedication to quality, Letis Reyes is putting her remote town of San Jose Los Andes on the map. But she’s also giving back to her own community: On her little corner of Santa Bárbara Mountain, there is little income to be made outside of coffee, which means that long-distance transit is a fact of life for many local workers. A mother herself, Letis Reyes also cares for a group of children whose parents must travel in order to support their families.   As our green coffee buyer, Charlie Habegger, says, she’s “many times a mother.” ",
+      "p4": "When our guests buy our coffees, they’re supporting these incredible women as well as Blue Bottle, and we couldn’t be more grateful.",
+      "link": "https://blog.bluebottlecoffee.com/posts/mothers-day-2017",
+    },
+    {
+      "id": "",
+      "title": "",
+      "author": "",
+      "p1": "",
+      "h1": "",
+      "p2": "",
+      "h2": "",
+      "p3": "",
+      "p4": "",
+      "link": "",
+    },
    ]
 }
