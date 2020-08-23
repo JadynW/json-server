@@ -61,28 +61,6 @@
       "description": "Octavio ‘Otto’ Rafael Herrera Ordoñez has worked in coffee for more than 25 years. His farms, including ‘Las Plantas’ are currently under the administration and operation of the second and third generation of the Herrera family, with collectively has over 50 years of experience in growing coffee. The family has been pushing the quality of the coffee processing allowing their plants to bring forth their best qualities. Through our green bean partner Project Origin, we work closely with Otto, the Herrera family through our local partners in Guatemala, who focus on growing and exporting different lots and varietal separations that are always juicy, complex, and downright delicious. This washed bourbon/caturra lot has a distinct chocolate sweetness, accompanied by a mandarin note and lingering citrus acidity."
     }
   ],
-  "products": [
-    {
-      "id": "0",
-      "name": "product 0",
-      "image": "images/prod-0.jpg"
-    },
-    {
-      "id": "1",
-      "name": "product 1",
-      "image": "images/prod-1.jpg"
-    },
-    {
-      "id": "2",
-      "name": "product 2",
-      "image": "images/prod-2.jpg"
-    },
-    {
-      "id": "3",
-      "name": "product 3",
-      "image": "images/prod-3.jpg"
-    }
-   ],
   "blogs": [
     {
       "id": "Bean-Source",
